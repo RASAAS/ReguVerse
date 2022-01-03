@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T07:35:50.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bmNWinq0jIp_NNGUGF6P" version="16.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-03T07:37:07.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fLcpswK-7kCV1FHRxQEm" version="16.0.3" type="github" pages="3">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="用户角色">
     <mxGraphModel dx="1192" dy="-1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -116,8 +116,11 @@
         <mxCell id="WVIBvLziJH9YJbsx_MHw-5" value="不同角色用户登录" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#FFF8E1;" vertex="1" parent="WVIBvLziJH9YJbsx_MHw-1">
           <mxGeometry x="100" y="190" width="135" height="203" as="geometry" />
         </mxCell>
+        <mxCell id="4dNqdoZ1KUCIMIp3DNeV-3" value="管理员登录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=3;targetPerimeterSpacing=3;strokeColor=#000000;strokeWidth=2;" edge="1" parent="WVIBvLziJH9YJbsx_MHw-1" source="WVIBvLziJH9YJbsx_MHw-7" target="Bc6QtC__4WaUgOoh0swl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WVIBvLziJH9YJbsx_MHw-7" value="系统管理员账户" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#FFF8E1;" vertex="1" parent="WVIBvLziJH9YJbsx_MHw-1">
-          <mxGeometry x="100" y="600" width="135" height="100" as="geometry" />
+          <mxGeometry x="100" y="570" width="135" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WVIBvLziJH9YJbsx_MHw-9" value="Marketing List" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="WVIBvLziJH9YJbsx_MHw-1">
           <mxGeometry x="107.5" y="420" width="120" height="110" as="geometry" />
@@ -237,10 +240,10 @@
           <mxGeometry x="133.5" y="287" width="33" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Bc6QtC__4WaUgOoh0swl-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/random_icons_by_Rskys/32/admin.png;fillColor=#29872C;" vertex="1" parent="WVIBvLziJH9YJbsx_MHw-1">
-          <mxGeometry x="139" y="640" width="32" height="32" as="geometry" />
+          <mxGeometry x="139" y="610" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Bc6QtC__4WaUgOoh0swl-1" value="系统管理" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="WVIBvLziJH9YJbsx_MHw-1">
-          <mxGeometry x="390" y="570" width="305" height="150" as="geometry" />
+          <mxGeometry x="390" y="570" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4dNqdoZ1KUCIMIp3DNeV-0" value="系统维护" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#000000;align=center;html=1;" vertex="1" parent="WVIBvLziJH9YJbsx_MHw-1">
           <mxGeometry x="400" y="600" width="100" height="40" as="geometry" />
