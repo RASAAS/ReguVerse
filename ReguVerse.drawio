@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T07:44:26.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Afww1EsM29NB6szOk-nH" version="16.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-03T07:47:52.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7gG0Gi6NRkNJe850gc8i" version="16.0.3" type="github" pages="4">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="用户角色">
     <mxGraphModel dx="1192" dy="-1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -420,6 +420,9 @@
         </mxCell>
         <mxCell id="-W9Ee7bHzbP97SJPWzZZ-5" value="&lt;font color=&quot;#000000&quot;&gt;支持部门&lt;br&gt;QA, R&amp;amp;D, Clinical, Mfg&lt;br&gt;Management...&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1Y_RHsJMcNiopBoa2tXz-1">
           <mxGeometry x="97.5" y="705" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK8KFXLEPOqTUJ8YGZ4-0" value="协助工作" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1Y_RHsJMcNiopBoa2tXz-1">
+          <mxGeometry x="335" y="585" width="360" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
